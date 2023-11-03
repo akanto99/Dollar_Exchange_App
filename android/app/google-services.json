@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756907712776",
+    "project_id": "dollar-exchange-stores",
+    "storage_bucket": "dollar-exchange-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756907712776:android:59cefe277a374470e00cbd",
+        "android_client_info": {
+          "package_name": "com.example.dollar_exchange_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvQgoKiIwnO3-R7KHIdRsBjHYP5O2uBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
